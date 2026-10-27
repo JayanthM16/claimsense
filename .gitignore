@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.env
+data/
+logs/
+*.tfstate*
+.terraform/
+target/
+dbt_packages/
+spark-warehouse/
+metastore_db/

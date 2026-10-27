@@ -1,0 +1,14 @@
+pandas==2.2.*
+numpy
+faker
+psycopg[binary]
+requests
+tenacity
+pymongo
+cassandra-driver
+kafka-python
+pyspark==3.5.*
+delta-spark==3.2.*
+pytest
+ruff
+jupyterlab
